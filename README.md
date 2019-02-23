@@ -12,4 +12,4 @@ To manually install it:
 
 To make things quicker for myself I wrote a small script to automate it
 
-chmod +x install.sh && ./install.sh
+`chmod +x install.sh && ./install.sh`
